@@ -1,0 +1,7 @@
+开机时候在bois界面编译Ubuntu
+在编辑模式下找到 <quiet splash>
+在splash那行末尾添加如下内容：
+<acpi_osi=! acpi="windows 2009">
+
+开机后grub目录在/boot/grub/grub.cfg
+修改该文件的内容即可永久解决
