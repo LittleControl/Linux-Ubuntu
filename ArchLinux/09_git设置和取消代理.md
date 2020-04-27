@@ -10,3 +10,12 @@ git config --global --unset http.proxy
 git config --global --unset https.proxy
 
 ```
+
+## git的一些简单命令
+
+### 初始化
+
+```shell
+git config --global user.name 'LittleControl'
+git config --global user.email 'litlecontrol2019@gmail.com'
+```
