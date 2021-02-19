@@ -1,16 +1,26 @@
-# Linux初学者
+# Some notes for linux
 
-It is a study way for Linux
+## Which Linux distribution I am using now ?
 
-## 最近在折腾搭建博客
+`cat /etc/os-release`
 
-最近折腾着搭建博客WordPress和Typecho等等,所以也是一直与CentOS打交道,准备更新一下遇到的坑.万一下一次服务器迁移的时候,应该也用的上.
+```zsh
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://www.archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://bugs.archlinux.org/"
+LOGO=archlinux
+```
 
-## 2019.11.4更新
+## Why Arch ?
 
-已入教(Arch Linux),所以以后应该会更新一些有关Arch的东西
+I like rolling!
 
-## Ubuntu
+## Others
 
-平时玩Ubuntu中遇到的一些问题在这里跟大家分享一下  
-前人栽树，后人乘凉
+`ArchLinux + i3` is awesome!
